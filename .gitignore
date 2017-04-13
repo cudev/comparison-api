@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.idea/
+.vscode/
+coverage/
+.nyc_output/
+.env
+npm-debug.log
